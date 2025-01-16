@@ -1,8 +1,6 @@
-# Assistverse
+# Assistverse: Your One Stop Solution to talk with Files
 
-A MERN Stack Chat Web Application which is a chatbot which gives answers to your questions based on
-the input pdf provided which also harnesses the Google Gemini LLM & it helps in text summarisation, better understanding research papers etc. 
-It uses MERN technologies and along with that uses the brand new Fast Api technology to make use of LangServe.
+The MERN Stack Chat Web Application is an advanced chatbot that provides responses based on the content of a user-uploaded PDF. By harnessing the capabilities of Google Gemini, a cutting-edge language model (LLM), it offers accurate answers and features like text summarization. This is particularly helpful for understanding intricate research papers and documents. The app is built using the MERN stack—MongoDB, Express.js, React, and Node.js—while FastAPI powers the backend. FastAPI integrates with LangServe to enhance text processing, allowing the chatbot to efficiently generate context-based answers and summaries.
 
 ## Snapshots.
  ### Login area
