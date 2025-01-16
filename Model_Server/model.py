@@ -73,34 +73,4 @@ def user_input(user_question):
         , return_only_outputs=True)
 
     print(response["output_text"])
-    # st.write("Reply: ", response["output_text"])
-
-# Rest of your code remains unchanged...
-
-
-
-
-
-# def main():
-
-
-
     
-   
-
-#     pdf_docs=["./ca.pdf"]
-    
-#     raw_text = get_pdf_text(pdf_docs)
-#     text_chunks = get_text_chunks(raw_text)
-#     get_vector_store(text_chunks)
-#     print("Done")
-   
-#     while 1:
-#         user_question = input("Enter text :")
-#         if user_question:
-#             user_input(user_question)
-
-
-
-# if __name__ == "__main__":
-#     main()
