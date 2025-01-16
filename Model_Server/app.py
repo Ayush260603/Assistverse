@@ -121,12 +121,3 @@ def get_conversational_chain():
     chain = load_qa_chain(model, chain_type="stuff", prompt=prompt)
     return chain
 
-# def main():
-#     pdf_docs = ["./230.pdf"]
-#     raw_text = get_pdf_text(pdf_docs)
-#     text_chunks = get_text_chunks(raw_text)
-#     get_vector_store(text_chunks)
-#     print("Indexing done")
-
-# if __name__ == "__main__":
-#     main()
