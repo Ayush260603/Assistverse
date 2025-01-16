@@ -54,7 +54,7 @@ const MyApp = () => {
     console.log(email, password);
     
     try {
-      const response = await axios.post( 'https://docuscholar.onrender.com/login', {
+      const response = await axios.post( 'https://assistverse-1.onrender.com/login', {
         email,
         password,
 
