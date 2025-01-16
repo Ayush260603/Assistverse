@@ -10,7 +10,7 @@ Here a picture of the interface.
 
 Move to the client directory & hit the following command 
 
-      npm intall
+      npm install
       npm run dev
 
     
